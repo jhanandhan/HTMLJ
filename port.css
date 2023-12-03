@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        li{display: inline-block;
+        padding: 17px;
+        
+        
+    }
+    ul{background-color: rgb(51, 51, 190);
+    text-align: center;
+color: aliceblue;}
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+    ol{display: inline-block;
+        list-style-type: none;
+        
+        }
+        pre{
+            color: aqua;
+            text-align: center;
+        }
+        p{
+            
+            text-align: center;
+            color: aliceblue;
+            background-image: url("http://www.annauniv.edu/images/main-slider/slide1.jpeg");
+            height: 100%;
+        }
+    </style>
+    <ul><Li>home</Li><li>Sports</li><li>IOAC</li><li>affiliation</li><li>Library</li><li>Placements</li><li>RCC</li><li>Contact us</li></ul>
+    <img src="https://www.annauniv.edu/images/ANNAUNIVERSITYLOGO.png"/>
+    <ol><li>ABOUT US</li><li>VC's DESK</li><li>ADMINISTRATION</li><Li>DEPARTMENT</Li><li>ADMINISTRATION</li><li>RESEARCH</li><li>INOVATION</li><li>CURRICULAM</li><li>ADMISSIONS</li><li>TATANTATTAN</li><li>NABIL</li></ol>
+    <p> asia"s number one university for providing education for the students </p>
+    <img src="http://www.annauniv.edu/images/main-slider/slide1.jpeg"/>
+
+</body>
+</html>

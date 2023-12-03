@@ -1,0 +1,27 @@
+#yourname{
+    background-image: url(https://cdn.pixabay.com/photo/2018/01/12/14/24/night-3078326__340.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:gray;
+    text-align: center;
+    height:850px;
+    border-color: black;
+    border-style: solid;
+    color:black;
+}
+#textbox{
+    width:200px;
+    height:100px;
+    background-color: aqua;
+}
+#template{
+    width:200px;
+    height:100px;
+    background-color: aqua;
+
+}
+#textol{
+    background-color: aqua;
+    width:150px;
+    height:80px;
+}

@@ -1,0 +1,26 @@
+.grid{
+    width:150px;
+    height:150px;
+    border:1px solid black;
+    display:inline-block;
+    margin:-2px;
+ }
+ .odd{
+     width:150px;
+     height:150px;
+     border:1px  solid black;
+     display:inline-block;
+     margin:-2px
+ }
+ .odd{
+     background-color:blue;
+     font-size: 100px;
+     text-align: center;
+     text-decoration: white;
+ }
+ .grid{
+     background-color:white;
+     font-size: 100px;
+     text-align: center;
+     text-decoration: black;
+ } 

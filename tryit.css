@@ -1,0 +1,25 @@
+.product-category{
+
+    display: inline;
+}
+#store-header{
+    background-color: gainsboro;
+
+}
+
+main{
+    display: flex;   
+   padding:30px;
+}
+.foot{text-align:end;}
+p{
+    color: blue;
+}
+.product2{
+    background-color:yellow;
+    padding:10px;
+}
+.product1{
+    background-color:beige;
+    margin-right:20px;
+}

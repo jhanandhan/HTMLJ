@@ -1,0 +1,24 @@
+.header{
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:crimson;
+    letter-spacing:0cqmin;
+    margin-bottom:auto;
+    text-transform:uppercase;
+    text-decoration:underline;
+}
+.text{
+    color:aqua;
+    font-size:medium;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.highlight{
+    background-color:yellow;
+    width:fit-content;
+}
+.italic{
+    font-style:italic;
+}
+.underline{
+    text-decoration:underline;
+}
